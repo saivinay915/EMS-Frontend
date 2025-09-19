@@ -4,7 +4,7 @@ import ListEmployeeComponent from "./components/ListEmployeeComponent";
 import { EmployeeComponent } from "./components/EmployeeComponent";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
-export default function App() {
+export default function App(){
 
     return (
         <>
