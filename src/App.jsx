@@ -12,10 +12,10 @@ export default function App() {
                 <Header />
 
                 <Routes>
-                    <Route path="EMS-Frontend/" element={<ListEmployeeComponent />} />
-                    <Route path="EMS-Frontend/employees" element={<ListEmployeeComponent />} />
-                    <Route path="EMS-Frontend/add-employee" element={<EmployeeComponent />} />
-                    <Route path="EMS-Frontend/edit-employee/:id" element={<EmployeeComponent />} />
+                    <Route path="saivinay915.github.io/EMS-Frontend/" element={<ListEmployeeComponent />} />
+                    <Route path="saivinay915.github.io/EMS-Frontend/employees" element={<ListEmployeeComponent />} />
+                    <Route path="saivinay915.github.io/EMS-Frontend/add-employee" element={<EmployeeComponent />} />
+                    <Route path="saivinay915.github.io/EMS-Frontend/edit-employee/:id" element={<EmployeeComponent />} />
                 </Routes>
 
                 <Footer />
